@@ -1,0 +1,746 @@
+{
+  "844c27ed-a43b-4bcc-85df-853bd6fc9f98": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "22d08490-c1d7-4486-bca6-97737d187688": {
+    "url": "db://assets/sources",
+    "value": {},
+    "versionCode": 1
+  },
+  "2f829cc9-da31-4c3d-967e-412e24ad046e": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "3b2c32af-947f-4d0c-8e5e-aa3898e14a43": {
+    "url": "db://assets/scenes.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "e32ea92a-f1db-4db9-b225-79ff88ee01c1": {
+    "url": "db://assets/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "f418e10c-b05b-4c36-a9ae-50d5675301bb": {
+    "url": "db://assets/scenes/game.scene",
+    "value": {
+      "depends": [
+        "f418e10c-b05b-4c36-a9ae-50d5675301bb",
+        "21d8d42c-97be-4321-bb36-cea0500b00c1",
+        "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc",
+        "bc2ed212-22b1-4054-8d50-71bd290f5b3e@f9941",
+        "699481da-3dd6-49c2-b887-d3db69a0f962@f9941",
+        "231fc82b-8ec7-4e29-b30a-12b5e9a34991",
+        "02d0c7fc-db55-4990-924f-514cb0db1ae1@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "6681fd4f-f351-4576-864f-46f7f8e7d002",
+        "953f541b-cba2-439e-b143-85497de03c1d",
+        "3ea5d81c-91e3-4973-979c-7925d5d04e12"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0e61c6b-d68e-45a6-a531-97f8335745b9": {
+    "url": "db://assets/sources/machine.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f0e61c6b-d68e-45a6-a531-97f8335745b9@6c48a": {
+    "url": "db://assets/sources/machine.png@6c48a",
+    "value": {
+      "depends": [
+        "f0e61c6b-d68e-45a6-a531-97f8335745b9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0e61c6b-d68e-45a6-a531-97f8335745b9@f9941": {
+    "url": "db://assets/sources/machine.png@f9941",
+    "value": {
+      "depends": [
+        "f0e61c6b-d68e-45a6-a531-97f8335745b9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "953f541b-cba2-439e-b143-85497de03c1d": {
+    "url": "db://assets/scripts/controllers/GameController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e8cda80e-4ed2-4e94-b63c-a942ce8f4e59": {
+    "url": "db://assets/resources/1.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e8cda80e-4ed2-4e94-b63c-a942ce8f4e59@6c48a": {
+    "url": "db://assets/resources/1.png@6c48a",
+    "value": {
+      "depends": [
+        "e8cda80e-4ed2-4e94-b63c-a942ce8f4e59"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8cda80e-4ed2-4e94-b63c-a942ce8f4e59@f9941": {
+    "url": "db://assets/resources/1.png@f9941",
+    "value": {
+      "depends": [
+        "e8cda80e-4ed2-4e94-b63c-a942ce8f4e59@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "118bf538-1f0f-4ea7-8c81-4036af2fae91": {
+    "url": "db://assets/resources/2.jpg",
+    "value": {},
+    "versionCode": 1
+  },
+  "118bf538-1f0f-4ea7-8c81-4036af2fae91@6c48a": {
+    "url": "db://assets/resources/2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "118bf538-1f0f-4ea7-8c81-4036af2fae91"
+      ]
+    },
+    "versionCode": 1
+  },
+  "118bf538-1f0f-4ea7-8c81-4036af2fae91@f9941": {
+    "url": "db://assets/resources/2.jpg@f9941",
+    "value": {
+      "depends": [
+        "118bf538-1f0f-4ea7-8c81-4036af2fae91@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e569331c-6482-41e4-b5b1-20fa0e85b504": {
+    "url": "db://assets/resources/3.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "e569331c-6482-41e4-b5b1-20fa0e85b504@6c48a": {
+    "url": "db://assets/resources/3.png@6c48a",
+    "value": {
+      "depends": [
+        "e569331c-6482-41e4-b5b1-20fa0e85b504"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e569331c-6482-41e4-b5b1-20fa0e85b504@f9941": {
+    "url": "db://assets/resources/3.png@f9941",
+    "value": {
+      "depends": [
+        "e569331c-6482-41e4-b5b1-20fa0e85b504@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "717fc823-0b53-453a-9db3-7338d732a8d5": {
+    "url": "db://assets/resources/4.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "717fc823-0b53-453a-9db3-7338d732a8d5@6c48a": {
+    "url": "db://assets/resources/4.png@6c48a",
+    "value": {
+      "depends": [
+        "717fc823-0b53-453a-9db3-7338d732a8d5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "717fc823-0b53-453a-9db3-7338d732a8d5@f9941": {
+    "url": "db://assets/resources/4.png@f9941",
+    "value": {
+      "depends": [
+        "717fc823-0b53-453a-9db3-7338d732a8d5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "68709859-af30-4f78-9549-8fadcdf6d8cb": {
+    "url": "db://assets/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "1432aa1e-dc50-486b-8fd9-83272632188e": {
+    "url": "db://assets/prefabs/Node1.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "4aacfcde-79b6-4340-a49b-8e88894371ec": {
+    "url": "db://assets/resources/11.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "b5df8089-4947-4e97-8ae4-7005fd53b339": {
+    "url": "db://assets/resources/12.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "3059605d-fba4-4e1c-be28-81e4ee621f85": {
+    "url": "db://assets/resources/13.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "0fbd3527-38ce-4f8f-86f0-31780f0e3964": {
+    "url": "db://assets/resources/14.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "699481da-3dd6-49c2-b887-d3db69a0f962": {
+    "url": "db://assets/sources/pictures/handelBar1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "699481da-3dd6-49c2-b887-d3db69a0f962@6c48a": {
+    "url": "db://assets/sources/pictures/handelBar1.png@6c48a",
+    "value": {
+      "depends": [
+        "699481da-3dd6-49c2-b887-d3db69a0f962"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8f64d73-b2b2-47ac-9a96-404c7e4710f9": {
+    "url": "db://assets/sources/handelBar2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "8806a521-ee14-4930-8405-cdf4782f2aa0": {
+    "url": "db://assets/sources/Body.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "da7ed2b0-be54-4736-a70b-185accabf960": {
+    "url": "db://assets/sources/handelBar3.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "f36cb2bd-76b5-48ae-a3af-8591d3cea01f": {
+    "url": "db://assets/sources/handelBar4.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "699481da-3dd6-49c2-b887-d3db69a0f962@f9941": {
+    "url": "db://assets/sources/pictures/handelBar1.png@f9941",
+    "value": {
+      "depends": [
+        "699481da-3dd6-49c2-b887-d3db69a0f962@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f36cb2bd-76b5-48ae-a3af-8591d3cea01f@6c48a": {
+    "url": "db://assets/sources/handelBar4.png@6c48a",
+    "value": {
+      "depends": [
+        "f36cb2bd-76b5-48ae-a3af-8591d3cea01f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8f64d73-b2b2-47ac-9a96-404c7e4710f9@6c48a": {
+    "url": "db://assets/sources/handelBar2.png@6c48a",
+    "value": {
+      "depends": [
+        "e8f64d73-b2b2-47ac-9a96-404c7e4710f9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "da7ed2b0-be54-4736-a70b-185accabf960@6c48a": {
+    "url": "db://assets/sources/handelBar3.png@6c48a",
+    "value": {
+      "depends": [
+        "da7ed2b0-be54-4736-a70b-185accabf960"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8806a521-ee14-4930-8405-cdf4782f2aa0@6c48a": {
+    "url": "db://assets/sources/Body.png@6c48a",
+    "value": {
+      "depends": [
+        "8806a521-ee14-4930-8405-cdf4782f2aa0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f36cb2bd-76b5-48ae-a3af-8591d3cea01f@f9941": {
+    "url": "db://assets/sources/handelBar4.png@f9941",
+    "value": {
+      "depends": [
+        "f36cb2bd-76b5-48ae-a3af-8591d3cea01f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8806a521-ee14-4930-8405-cdf4782f2aa0@f9941": {
+    "url": "db://assets/sources/Body.png@f9941",
+    "value": {
+      "depends": [
+        "8806a521-ee14-4930-8405-cdf4782f2aa0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "da7ed2b0-be54-4736-a70b-185accabf960@f9941": {
+    "url": "db://assets/sources/handelBar3.png@f9941",
+    "value": {
+      "depends": [
+        "da7ed2b0-be54-4736-a70b-185accabf960@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e8f64d73-b2b2-47ac-9a96-404c7e4710f9@f9941": {
+    "url": "db://assets/sources/handelBar2.png@f9941",
+    "value": {
+      "depends": [
+        "e8f64d73-b2b2-47ac-9a96-404c7e4710f9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "83bd8f83-9c37-4809-ae37-ae3b4a8cfde3": {
+    "url": "db://assets/animation",
+    "value": {},
+    "versionCode": 1
+  },
+  "503f2788-c12b-45ff-82f9-c8bd6943c9f3": {
+    "url": "db://assets/handelbar.anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "231fc82b-8ec7-4e29-b30a-12b5e9a34991": {
+    "url": "db://assets/animation/handelbar.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ed3ec328-a115-4092-9c35-657bc2dc8b84": {
+    "url": "db://assets/resources/RollingMusic.m4a",
+    "value": {},
+    "versionCode": 1
+  },
+  "3c7b9bc1-d5b8-4275-a294-7c49d7629d64": {
+    "url": "db://assets/scripts/MusicController",
+    "value": {},
+    "versionCode": 1
+  },
+  "6681fd4f-f351-4576-864f-46f7f8e7d002": {
+    "url": "db://assets/scripts/controllers/MusicController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "21d8d42c-97be-4321-bb36-cea0500b00c1": {
+    "url": "db://assets/resources/music/RollingMusic.m4a",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "9b5c3da1-0cb2-44ca-a8f1-c04ba72669a4": {
+    "url": "db://assets/resources/SLOT_Picture1.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "9b5c3da1-0cb2-44ca-a8f1-c04ba72669a4@6c48a": {
+    "url": "db://assets/resources/SLOT_Picture1.png@6c48a",
+    "value": {
+      "depends": [
+        "9b5c3da1-0cb2-44ca-a8f1-c04ba72669a4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9b5c3da1-0cb2-44ca-a8f1-c04ba72669a4@f9941": {
+    "url": "db://assets/resources/SLOT_Picture1.png@f9941",
+    "value": {
+      "depends": [
+        "9b5c3da1-0cb2-44ca-a8f1-c04ba72669a4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0c77ae83-871d-46f6-81fe-bc71177b7860": {
+    "url": "db://assets/resources/SLOT_Picture4.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "2ca0b7f9-ad61-4a57-8a08-86d8b2473b32": {
+    "url": "db://assets/resources/SLOT_Picture2.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "534d0e17-2b74-43a7-9429-3a87b97625f1": {
+    "url": "db://assets/resources/SLOT_Picture3.png",
+    "value": {},
+    "versionCode": 1
+  },
+  "0c77ae83-871d-46f6-81fe-bc71177b7860@6c48a": {
+    "url": "db://assets/resources/SLOT_Picture4.png@6c48a",
+    "value": {
+      "depends": [
+        "0c77ae83-871d-46f6-81fe-bc71177b7860"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0c77ae83-871d-46f6-81fe-bc71177b7860@f9941": {
+    "url": "db://assets/resources/SLOT_Picture4.png@f9941",
+    "value": {
+      "depends": [
+        "0c77ae83-871d-46f6-81fe-bc71177b7860@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2ca0b7f9-ad61-4a57-8a08-86d8b2473b32@6c48a": {
+    "url": "db://assets/resources/SLOT_Picture2.png@6c48a",
+    "value": {
+      "depends": [
+        "2ca0b7f9-ad61-4a57-8a08-86d8b2473b32"
+      ]
+    },
+    "versionCode": 1
+  },
+  "534d0e17-2b74-43a7-9429-3a87b97625f1@6c48a": {
+    "url": "db://assets/resources/SLOT_Picture3.png@6c48a",
+    "value": {
+      "depends": [
+        "534d0e17-2b74-43a7-9429-3a87b97625f1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2ca0b7f9-ad61-4a57-8a08-86d8b2473b32@f9941": {
+    "url": "db://assets/resources/SLOT_Picture2.png@f9941",
+    "value": {
+      "depends": [
+        "2ca0b7f9-ad61-4a57-8a08-86d8b2473b32@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "534d0e17-2b74-43a7-9429-3a87b97625f1@f9941": {
+    "url": "db://assets/resources/SLOT_Picture3.png@f9941",
+    "value": {
+      "depends": [
+        "534d0e17-2b74-43a7-9429-3a87b97625f1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "95ae37c5-81aa-412d-8bf4-66ab7148a73a": {
+    "url": "db://assets/prefabs/SLOT_Picture1.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "28616a7e-0dd4-481d-98cf-c1081354c7ca": {
+    "url": "db://assets/resources/SLOT_Picture1.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "4b714fbf-eec9-4194-8906-7e048f961f78": {
+    "url": "db://assets/resources/SLOT_Picture2.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "0ae285ce-c0cd-4c8b-8b37-a5039a49e639": {
+    "url": "db://assets/resources/SLOT_Picture3.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "c16e532f-6f5f-4cc9-b3b1-adee43b9b503": {
+    "url": "db://assets/resources/SLOT_Picture4.prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "acca0a5d-4953-41fe-81e5-f4532148e5e6": {
+    "url": "db://assets/sources/pictures/SLOT_Picture4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "acca0a5d-4953-41fe-81e5-f4532148e5e6@6c48a": {
+    "url": "db://assets/sources/pictures/SLOT_Picture4.png@6c48a",
+    "value": {
+      "depends": [
+        "acca0a5d-4953-41fe-81e5-f4532148e5e6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "acca0a5d-4953-41fe-81e5-f4532148e5e6@f9941": {
+    "url": "db://assets/sources/pictures/SLOT_Picture4.png@f9941",
+    "value": {
+      "depends": [
+        "acca0a5d-4953-41fe-81e5-f4532148e5e6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "02d0c7fc-db55-4990-924f-514cb0db1ae1": {
+    "url": "db://assets/sources/pictures/SLOT_Picture1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "02d0c7fc-db55-4990-924f-514cb0db1ae1@6c48a": {
+    "url": "db://assets/sources/pictures/SLOT_Picture1.png@6c48a",
+    "value": {
+      "depends": [
+        "02d0c7fc-db55-4990-924f-514cb0db1ae1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "02d0c7fc-db55-4990-924f-514cb0db1ae1@f9941": {
+    "url": "db://assets/sources/pictures/SLOT_Picture1.png@f9941",
+    "value": {
+      "depends": [
+        "02d0c7fc-db55-4990-924f-514cb0db1ae1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f4659237-ebb6-40e1-840e-d96d86deb252": {
+    "url": "db://assets/sources/pictures/SLOT_Picture2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f4659237-ebb6-40e1-840e-d96d86deb252@6c48a": {
+    "url": "db://assets/sources/pictures/SLOT_Picture2.png@6c48a",
+    "value": {
+      "depends": [
+        "f4659237-ebb6-40e1-840e-d96d86deb252"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f4659237-ebb6-40e1-840e-d96d86deb252@f9941": {
+    "url": "db://assets/sources/pictures/SLOT_Picture2.png@f9941",
+    "value": {
+      "depends": [
+        "f4659237-ebb6-40e1-840e-d96d86deb252@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "153e44c5-cc46-4768-8a5c-fbd537a7048c": {
+    "url": "db://assets/sources/pictures/SLOT_Picture3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "153e44c5-cc46-4768-8a5c-fbd537a7048c@6c48a": {
+    "url": "db://assets/sources/pictures/SLOT_Picture3.png@6c48a",
+    "value": {
+      "depends": [
+        "153e44c5-cc46-4768-8a5c-fbd537a7048c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "153e44c5-cc46-4768-8a5c-fbd537a7048c@f9941": {
+    "url": "db://assets/sources/pictures/SLOT_Picture3.png@f9941",
+    "value": {
+      "depends": [
+        "153e44c5-cc46-4768-8a5c-fbd537a7048c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "341aaeb5-233c-4c90-bb2b-b092723e166c": {
+    "url": "db://assets/resources/prefabs/SLOT_Picture1.prefab",
+    "value": {
+      "depends": [
+        "02d0c7fc-db55-4990-924f-514cb0db1ae1@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "acd7cefb-45f8-4528-9cce-46006b9f571e": {
+    "url": "db://assets/resources/prefabs/SLOT_Picture2.prefab",
+    "value": {
+      "depends": [
+        "f4659237-ebb6-40e1-840e-d96d86deb252@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "293da587-edaa-4885-bf76-a9d39bcadc14": {
+    "url": "db://assets/resources/prefabs/SLOT_Picture3.prefab",
+    "value": {
+      "depends": [
+        "153e44c5-cc46-4768-8a5c-fbd537a7048c@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "b8874494-fc65-4908-b1e8-b44aedb5cdb0": {
+    "url": "db://assets/resources/prefabs/SLOT_Picture4.prefab",
+    "value": {
+      "depends": [
+        "acca0a5d-4953-41fe-81e5-f4532148e5e6@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "b87da847-ab8c-4b76-b1f0-0467ec10b195": {
+    "url": "db://assets/resources/music",
+    "value": {},
+    "versionCode": 1
+  },
+  "e05775ca-1a9d-45dc-99c7-852774ac9b36": {
+    "url": "db://assets/sources/pictures",
+    "value": {},
+    "versionCode": 1
+  },
+  "bfd7044c-3b11-417a-9656-b956e1c14e42": {
+    "url": "db://assets/resources/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e": {
+    "url": "db://assets/sources/pictures/EndingPicture.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e@6c48a": {
+    "url": "db://assets/sources/pictures/EndingPicture.png@6c48a",
+    "value": {
+      "depends": [
+        "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e@f9941": {
+    "url": "db://assets/sources/pictures/EndingPicture.png@f9941",
+    "value": {
+      "depends": [
+        "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3ea5d81c-91e3-4973-979c-7925d5d04e12": {
+    "url": "db://assets/scripts/controllers/ResultController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a10c756a-8f1f-4489-afa3-49ffcc1a065c": {
+    "url": "db://assets/resources/music/BingoMusic.mp3",
+    "value": {},
+    "versionCode": 1
+  },
+  "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc": {
+    "url": "db://assets/resources/music/BingoMusic.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f04c2176-7774-4b83-972a-a3f870a45f64": {
+    "url": "db://assets/utils",
+    "value": {},
+    "versionCode": 1
+  },
+  "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa": {
+    "url": "db://assets/utils/SlotPicturesEnum.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b641e933-05f2-48fa-b147-fc5b59e4a9c5": {
+    "url": "db://assets/scripts/services",
+    "value": {},
+    "versionCode": 1
+  },
+  "5c94bee9-0e2b-4c2a-8bd2-2adf1cd011cd": {
+    "url": "db://assets/scripts/controllers",
+    "value": {},
+    "versionCode": 1
+  },
+  "60b5c35c-8efa-4d0b-867c-fb4499d0b197": {
+    "url": "db://assets/scripts/GameController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ddeac5bd-b687-4d6d-a78a-66b3ffad55b5": {
+    "url": "db://assets/scripts/services/RollingPictureService.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "dd31244e-5db0-48d5-b390-684217748234": {
+    "url": "db://assets/scripts/GameController-001.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a50f2727-8962-4962-91e4-5b3e160519f9": {
+    "url": "db://assets/scripts/GameController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2bcfac98-dc85-44c3-9ef3-0fe75733498d": {
+    "url": "db://assets/scripts/services/GameService.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a697e2d8-a581-4ef3-b79e-b2a714d903fa": {
+    "url": "db://assets/utils/FunctionUtils.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bc2ed212-22b1-4054-8d50-71bd290f5b3e": {
+    "url": "db://assets/sources/pictures/SLOT_Body.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "bc2ed212-22b1-4054-8d50-71bd290f5b3e@6c48a": {
+    "url": "db://assets/sources/pictures/SLOT_Body.png@6c48a",
+    "value": {
+      "depends": [
+        "bc2ed212-22b1-4054-8d50-71bd290f5b3e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bc2ed212-22b1-4054-8d50-71bd290f5b3e@f9941": {
+    "url": "db://assets/sources/pictures/SLOT_Body.png@f9941",
+    "value": {
+      "depends": [
+        "bc2ed212-22b1-4054-8d50-71bd290f5b3e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  }
+}

@@ -1,0 +1,1473 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Cocos\\solt\\assets\\scripts.meta": {
+      "time": 1733745393510.351
+    },
+    "C:\\Cocos\\solt\\assets\\scripts": {
+      "time": 1734176703588.0835,
+      "uuid": "844c27ed-a43b-4bcc-85df-853bd6fc9f98"
+    },
+    "C:\\Cocos\\solt\\assets\\sources.meta": {
+      "time": 1733745393527.1758
+    },
+    "C:\\Cocos\\solt\\assets\\sources": {
+      "time": 1733923238585.3623,
+      "uuid": "22d08490-c1d7-4486-bca6-97737d187688"
+    },
+    "C:\\Cocos\\solt\\assets\\resources.meta": {
+      "time": 1733745393476.6743
+    },
+    "C:\\Cocos\\solt\\assets\\resources": {
+      "time": 1733841891482.2332,
+      "uuid": "2f829cc9-da31-4c3d-967e-412e24ad046e"
+    },
+    "C:\\Cocos\\solt\\assets\\scenes.meta": {
+      "time": 1733745393494.3037
+    },
+    "C:\\Cocos\\solt\\assets\\scenes": {
+      "time": 1733745393845.4595,
+      "uuid": "e32ea92a-f1db-4db9-b225-79ff88ee01c1"
+    },
+    "C:\\Cocos\\solt\\assets\\scenes\\game.scene.meta": {
+      "time": 1733745393861.8796
+    },
+    "C:\\Cocos\\solt\\assets\\scenes\\game.scene": {
+      "time": 1734192673384.1555,
+      "uuid": "f418e10c-b05b-4c36-a9ae-50d5675301bb"
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\machine.png.meta": {
+      "time": 1733745393927.505
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources": {
+      "time": 1733665211871.088,
+      "uuid": "2f829cc9-da31-4c3d-967e-412e24ad046e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scenes": {
+      "time": 1733665211963.723,
+      "uuid": "e32ea92a-f1db-4db9-b225-79ff88ee01c1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scripts": {
+      "time": 1733665212068.7395,
+      "uuid": "844c27ed-a43b-4bcc-85df-853bd6fc9f98"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\sources": {
+      "time": 1733665212170.8716,
+      "uuid": "22d08490-c1d7-4486-bca6-97737d187688"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scripts\\GameController.ts": {
+      "time": 1733666117921.2773,
+      "uuid": "953f541b-cba2-439e-b143-85497de03c1d"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\prefabs.meta": {
+      "time": 1733665211061.3806
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources.meta": {
+      "time": 1733665211103.4023
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scenes.meta": {
+      "time": 1733665211144.0635
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scripts.meta": {
+      "time": 1733665211185.4905
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\sources.meta": {
+      "time": 1733665211225.4084
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scripts\\GameController.ts.meta": {
+      "time": 1733665212114.2766
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scenes\\game.scene": {
+      "time": 1733666173873.1204,
+      "uuid": "f418e10c-b05b-4c36-a9ae-50d5675301bb"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\12.prefab.meta": {
+      "time": 1733665211491.8804
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\13.prefab.meta": {
+      "time": 1733665211574.4377
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\11.prefab.meta": {
+      "time": 1733665211413.3782
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\14.prefab.meta": {
+      "time": 1733665211657.5498
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\scenes\\game.scene.meta": {
+      "time": 1733665212002.659
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\3.png.meta": {
+      "time": 1733665211826.9387
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\1.png.meta": {
+      "time": 1733665211330.6182
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\4.png.meta": {
+      "time": 1733665211908.5352
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\2.jpg.meta": {
+      "time": 1733665211746.5325
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\sources\\machine.png.meta": {
+      "time": 1733665212213.546
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\handelBar1.png.meta": {
+      "time": 1733758031928.8208
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\handelBar2.png.meta": {
+      "time": 1733758032564.1106
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\Body.png.meta": {
+      "time": 1733758032561.921
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\handelBar3.png.meta": {
+      "time": 1733758032563.0637
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\handelBar4.png.meta": {
+      "time": 1733758032554.9026
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\handelBar1.png": {
+      "time": 1733756612889.8596,
+      "uuid": "699481da-3dd6-49c2-b887-d3db69a0f962"
+    },
+    "C:\\Cocos\\solt\\assets\\animation.meta": {
+      "time": 1733758279371.0498
+    },
+    "C:\\Cocos\\solt\\assets\\animation": {
+      "time": 1733759144384.9346,
+      "uuid": "83bd8f83-9c37-4809-ae37-ae3b4a8cfde3"
+    },
+    "C:\\Cocos\\solt\\assets\\animation\\handelbar.anim.meta": {
+      "time": 1733759144391.0112
+    },
+    "C:\\Cocos\\solt\\assets\\animation\\handelbar.anim": {
+      "time": 1733804518936.1216,
+      "uuid": "231fc82b-8ec7-4e29-b30a-12b5e9a34991"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\music.meta": {
+      "time": 1733841853159.858
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\music": {
+      "time": 1734154682472.1692,
+      "uuid": "b87da847-ab8c-4b76-b1f0-0467ec10b195"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures.meta": {
+      "time": 1733841863378.272
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures": {
+      "time": 1733841871883.4255,
+      "uuid": "e05775ca-1a9d-45dc-99c7-852774ac9b36"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture1.png.meta": {
+      "time": 1733841651390.6172
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture1.png": {
+      "time": 1733841599693.08,
+      "uuid": "02d0c7fc-db55-4990-924f-514cb0db1ae1"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture2.png.meta": {
+      "time": 1733841651500.563
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture2.png": {
+      "time": 1733841611127.6306,
+      "uuid": "f4659237-ebb6-40e1-840e-d96d86deb252"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture3.png.meta": {
+      "time": 1733841651523.8616
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture3.png": {
+      "time": 1733841622002.2705,
+      "uuid": "153e44c5-cc46-4768-8a5c-fbd537a7048c"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture4.png.meta": {
+      "time": 1733841651348.7317
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\pictures\\SLOT_Picture4.png": {
+      "time": 1733841632413.9375,
+      "uuid": "acca0a5d-4953-41fe-81e5-f4532148e5e6"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs.meta": {
+      "time": 1733841885206.0457
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs": {
+      "time": 1733841891482.2332,
+      "uuid": "bfd7044c-3b11-417a-9656-b956e1c14e42"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture1.prefab.meta": {
+      "time": 1733841676427.9963
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture1.prefab": {
+      "time": 1733841676426.992,
+      "uuid": "341aaeb5-233c-4c90-bb2b-b092723e166c"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture2.prefab.meta": {
+      "time": 1733841683037.3513
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture2.prefab": {
+      "time": 1733841683035.2964,
+      "uuid": "acd7cefb-45f8-4528-9cce-46006b9f571e"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture3.prefab.meta": {
+      "time": 1733841689652.111
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture3.prefab": {
+      "time": 1733841689650.6052,
+      "uuid": "293da587-edaa-4885-bf76-a9d39bcadc14"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture4.prefab.meta": {
+      "time": 1733841703036.911
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\prefabs\\SLOT_Picture4.prefab": {
+      "time": 1733841703035.903,
+      "uuid": "b8874494-fc65-4908-b1e8-b44aedb5cdb0"
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\EndingPicture.png.meta": {
+      "time": 1733923238706.606
+    },
+    "C:\\Cocos\\solt\\assets\\sources\\EndingPicture.png": {
+      "time": 1733922523945.4297,
+      "uuid": "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\music\\RollingMusic.m4a.meta": {
+      "time": 1733838951073.0757
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\music\\RollingMusic.m4a": {
+      "time": 1733838925955.3345,
+      "uuid": "21d8d42c-97be-4321-bb36-cea0500b00c1"
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\music\\BingoMusic.mp3.meta": {
+      "time": 1734154682481.7837
+    },
+    "C:\\Cocos\\solt\\assets\\resources\\music\\BingoMusic.mp3": {
+      "time": 1734154664574.0803,
+      "uuid": "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc"
+    },
+    "C:\\Cocos\\solt\\assets\\utils.meta": {
+      "time": 1734158980891.7903
+    },
+    "C:\\Cocos\\solt\\assets\\utils": {
+      "time": 1734186286272.0432,
+      "uuid": "f04c2176-7774-4b83-972a-a3f870a45f64"
+    },
+    "C:\\Cocos\\solt\\assets\\utils\\SlotPicturesEnum.ts.meta": {
+      "time": 1734159002537.944
+    },
+    "C:\\Cocos\\solt\\assets\\utils\\SlotPicturesEnum.ts": {
+      "time": 1734165928771.981,
+      "uuid": "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa"
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\services.meta": {
+      "time": 1734162573098.1084
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\services": {
+      "time": 1734177221761.818,
+      "uuid": "b641e933-05f2-48fa-b147-fc5b59e4a9c5"
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers.meta": {
+      "time": 1734162593412.0913
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers": {
+      "time": 1734162598335.785,
+      "uuid": "5c94bee9-0e2b-4c2a-8bd2-2adf1cd011cd"
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers\\MusicController.ts.meta": {
+      "time": 1733835415996.9468
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers\\MusicController.ts": {
+      "time": 1734153211321.2732,
+      "uuid": "6681fd4f-f351-4576-864f-46f7f8e7d002"
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers\\GameController.ts.meta": {
+      "time": 1733745393894.1572
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers\\GameController.ts": {
+      "time": 1734186378491.9524,
+      "uuid": "953f541b-cba2-439e-b143-85497de03c1d"
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers\\ResultController.ts.meta": {
+      "time": 1734011202709.7468
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\controllers\\ResultController.ts": {
+      "time": 1734014184325.6213,
+      "uuid": "3ea5d81c-91e3-4973-979c-7925d5d04e12"
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\services\\GameService.ts.meta": {
+      "time": 1734177221766.9724
+    },
+    "C:\\Cocos\\solt\\assets\\scripts\\services\\GameService.ts": {
+      "time": 1734185714943.5964,
+      "uuid": "2bcfac98-dc85-44c3-9ef3-0fe75733498d"
+    },
+    "C:\\Cocos\\solt\\assets\\utils\\FunctionUtils.ts.meta": {
+      "time": 1734186286281.4612
+    },
+    "C:\\Cocos\\solt\\assets\\utils\\FunctionUtils.ts": {
+      "time": 1734186345278.09,
+      "uuid": "a697e2d8-a581-4ef3-b79e-b2a714d903fa"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\animation": {
+      "time": 1733759144384.9346,
+      "uuid": "83bd8f83-9c37-4809-ae37-ae3b4a8cfde3"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources": {
+      "time": 1733841891482.2332,
+      "uuid": "2f829cc9-da31-4c3d-967e-412e24ad046e"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scenes": {
+      "time": 1733745393845.4595,
+      "uuid": "e32ea92a-f1db-4db9-b225-79ff88ee01c1"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts": {
+      "time": 1734176703588.0835,
+      "uuid": "844c27ed-a43b-4bcc-85df-853bd6fc9f98"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources": {
+      "time": 1733923238585.3623,
+      "uuid": "22d08490-c1d7-4486-bca6-97737d187688"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\utils": {
+      "time": 1734186286272.0432,
+      "uuid": "f04c2176-7774-4b83-972a-a3f870a45f64"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\music": {
+      "time": 1734154682472.1692,
+      "uuid": "b87da847-ab8c-4b76-b1f0-0467ec10b195"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures": {
+      "time": 1733841871883.4255,
+      "uuid": "e05775ca-1a9d-45dc-99c7-852774ac9b36"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs": {
+      "time": 1733841891482.2332,
+      "uuid": "bfd7044c-3b11-417a-9656-b956e1c14e42"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers": {
+      "time": 1734162598335.785,
+      "uuid": "5c94bee9-0e2b-4c2a-8bd2-2adf1cd011cd"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\services": {
+      "time": 1734177221761.818,
+      "uuid": "b641e933-05f2-48fa-b147-fc5b59e4a9c5"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\utils\\FunctionUtils.ts": {
+      "time": 1734186345278.09,
+      "uuid": "a697e2d8-a581-4ef3-b79e-b2a714d903fa"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\utils\\SlotPicturesEnum.ts": {
+      "time": 1734165928771.981,
+      "uuid": "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers\\GameController.ts": {
+      "time": 1734186378491.9524,
+      "uuid": "953f541b-cba2-439e-b143-85497de03c1d"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers\\MusicController.ts": {
+      "time": 1734153211321.2732,
+      "uuid": "6681fd4f-f351-4576-864f-46f7f8e7d002"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers\\ResultController.ts": {
+      "time": 1734014184325.6213,
+      "uuid": "3ea5d81c-91e3-4973-979c-7925d5d04e12"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\services\\GameService.ts": {
+      "time": 1734185714943.5964,
+      "uuid": "2bcfac98-dc85-44c3-9ef3-0fe75733498d"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\animation.meta": {
+      "time": 1733758279371.0498
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources.meta": {
+      "time": 1733745393476.6743
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scenes.meta": {
+      "time": 1733745393494.3037
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts.meta": {
+      "time": 1733745393510.351
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources.meta": {
+      "time": 1733745393527.1758
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\utils.meta": {
+      "time": 1734158980891.7903
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\music.meta": {
+      "time": 1733841853159.858
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures.meta": {
+      "time": 1733841863378.272
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs.meta": {
+      "time": 1733841885206.0457
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers.meta": {
+      "time": 1734162593412.0913
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\services.meta": {
+      "time": 1734162573098.1084
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\utils\\FunctionUtils.ts.meta": {
+      "time": 1734186286281.4612
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\utils\\SlotPicturesEnum.ts.meta": {
+      "time": 1734159002537.944
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers\\GameController.ts.meta": {
+      "time": 1733745393894.1572
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers\\MusicController.ts.meta": {
+      "time": 1733835415996.9468
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\controllers\\ResultController.ts.meta": {
+      "time": 1734011202709.7468
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scripts\\services\\GameService.ts.meta": {
+      "time": 1734177221766.9724
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\animation\\handelbar.anim": {
+      "time": 1733804518936.1216,
+      "uuid": "231fc82b-8ec7-4e29-b30a-12b5e9a34991"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scenes\\game.scene": {
+      "time": 1734192673384.1555,
+      "uuid": "f418e10c-b05b-4c36-a9ae-50d5675301bb"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\EndingPicture.png": {
+      "time": 1733922523945.4297,
+      "uuid": "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\handelBar1.png": {
+      "time": 1733756612889.8596,
+      "uuid": "699481da-3dd6-49c2-b887-d3db69a0f962"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\music\\BingoMusic.mp3": {
+      "time": 1734154664574.0803,
+      "uuid": "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\music\\RollingMusic.m4a": {
+      "time": 1733838925955.3345,
+      "uuid": "21d8d42c-97be-4321-bb36-cea0500b00c1"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture1.png": {
+      "time": 1733841599693.08,
+      "uuid": "02d0c7fc-db55-4990-924f-514cb0db1ae1"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture2.png": {
+      "time": 1733841611127.6306,
+      "uuid": "f4659237-ebb6-40e1-840e-d96d86deb252"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture3.png": {
+      "time": 1733841622002.2705,
+      "uuid": "153e44c5-cc46-4768-8a5c-fbd537a7048c"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture4.png": {
+      "time": 1733841632413.9375,
+      "uuid": "acca0a5d-4953-41fe-81e5-f4532148e5e6"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture1.prefab": {
+      "time": 1733841676426.992,
+      "uuid": "341aaeb5-233c-4c90-bb2b-b092723e166c"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture2.prefab": {
+      "time": 1733841683035.2964,
+      "uuid": "acd7cefb-45f8-4528-9cce-46006b9f571e"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture3.prefab": {
+      "time": 1733841689650.6052,
+      "uuid": "293da587-edaa-4885-bf76-a9d39bcadc14"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture4.prefab": {
+      "time": 1733841703035.903,
+      "uuid": "b8874494-fc65-4908-b1e8-b44aedb5cdb0"
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\animation\\handelbar.anim.meta": {
+      "time": 1733759144391.0112
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\scenes\\game.scene.meta": {
+      "time": 1733745393861.8796
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\handelBar1.png.meta": {
+      "time": 1733758031928.8208
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\Body.png.meta": {
+      "time": 1733758032561.921
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\handelBar2.png.meta": {
+      "time": 1733758032564.1106
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\EndingPicture.png.meta": {
+      "time": 1733923238706.606
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\handelBar3.png.meta": {
+      "time": 1733758032563.0637
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\music\\RollingMusic.m4a.meta": {
+      "time": 1733838951073.0757
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\music\\BingoMusic.mp3.meta": {
+      "time": 1734154682481.7837
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\handelBar4.png.meta": {
+      "time": 1733758032554.9026
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture1.png.meta": {
+      "time": 1733841651390.6172
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\sources\\machine.png.meta": {
+      "time": 1733745393927.505
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture2.png.meta": {
+      "time": 1733841651500.563
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture1.prefab.meta": {
+      "time": 1733841676427.9963
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture2.prefab.meta": {
+      "time": 1733841683037.3513
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture3.prefab.meta": {
+      "time": 1733841689652.111
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture3.png.meta": {
+      "time": 1733841651523.8616
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\prefabs\\SLOT_Picture4.prefab.meta": {
+      "time": 1733841703036.911
+    },
+    "C:\\WorkSpace\\COCOS\\slot.github.io\\solt\\assets\\resources\\pictures\\SLOT_Picture4.png.meta": {
+      "time": 1733841651348.7317
+    },
+    "C:\\Cocos\\slot\\assets\\animation": {
+      "time": 1734496865635.6245,
+      "uuid": "83bd8f83-9c37-4809-ae37-ae3b4a8cfde3"
+    },
+    "C:\\Cocos\\slot\\assets\\resources": {
+      "time": 1734496865810.019,
+      "uuid": "2f829cc9-da31-4c3d-967e-412e24ad046e"
+    },
+    "C:\\Cocos\\slot\\assets\\scenes": {
+      "time": 1734496865918.9414,
+      "uuid": "e32ea92a-f1db-4db9-b225-79ff88ee01c1"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts": {
+      "time": 1734496866020.821,
+      "uuid": "844c27ed-a43b-4bcc-85df-853bd6fc9f98"
+    },
+    "C:\\Cocos\\slot\\assets\\sources": {
+      "time": 1734496866182.863,
+      "uuid": "22d08490-c1d7-4486-bca6-97737d187688"
+    },
+    "C:\\Cocos\\slot\\assets\\utils": {
+      "time": 1734496866226.9795,
+      "uuid": "f04c2176-7774-4b83-972a-a3f870a45f64"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\music": {
+      "time": 1734496865708.1526,
+      "uuid": "b87da847-ab8c-4b76-b1f0-0467ec10b195"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures": {
+      "time": 1734496865799.654,
+      "uuid": "e05775ca-1a9d-45dc-99c7-852774ac9b36"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs": {
+      "time": 1734496865888.86,
+      "uuid": "bfd7044c-3b11-417a-9656-b956e1c14e42"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers": {
+      "time": 1734496866006.577,
+      "uuid": "5c94bee9-0e2b-4c2a-8bd2-2adf1cd011cd"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\services": {
+      "time": 1734496866032.2417,
+      "uuid": "b641e933-05f2-48fa-b147-fc5b59e4a9c5"
+    },
+    "C:\\Cocos\\slot\\assets\\utils\\FunctionUtils.ts": {
+      "time": 1734186344000,
+      "uuid": "a697e2d8-a581-4ef3-b79e-b2a714d903fa"
+    },
+    "C:\\Cocos\\slot\\assets\\utils\\SlotPicturesEnum.ts": {
+      "time": 1734165928000,
+      "uuid": "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers\\GameController.ts": {
+      "time": 1734529056920.4424,
+      "uuid": "953f541b-cba2-439e-b143-85497de03c1d"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers\\MusicController.ts": {
+      "time": 1734153210000,
+      "uuid": "6681fd4f-f351-4576-864f-46f7f8e7d002"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers\\ResultController.ts": {
+      "time": 1734014184000,
+      "uuid": "3ea5d81c-91e3-4973-979c-7925d5d04e12"
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\services\\GameService.ts": {
+      "time": 1734529316242.9548,
+      "uuid": "2bcfac98-dc85-44c3-9ef3-0fe75733498d"
+    },
+    "C:\\Cocos\\slot\\assets\\animation.meta": {
+      "time": 1733758278000
+    },
+    "C:\\Cocos\\slot\\assets\\resources.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\scenes.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\sources.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\utils.meta": {
+      "time": 1734158980000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\music.meta": {
+      "time": 1733841852000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures.meta": {
+      "time": 1733841862000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs.meta": {
+      "time": 1733841884000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers.meta": {
+      "time": 1734162592000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\services.meta": {
+      "time": 1734162572000
+    },
+    "C:\\Cocos\\slot\\assets\\utils\\FunctionUtils.ts.meta": {
+      "time": 1734186286000
+    },
+    "C:\\Cocos\\slot\\assets\\utils\\SlotPicturesEnum.ts.meta": {
+      "time": 1734159002000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers\\GameController.ts.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers\\MusicController.ts.meta": {
+      "time": 1733835414000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\controllers\\ResultController.ts.meta": {
+      "time": 1734011202000
+    },
+    "C:\\Cocos\\slot\\assets\\scripts\\services\\GameService.ts.meta": {
+      "time": 1734177220000
+    },
+    "C:\\Cocos\\slot\\assets\\animation\\handelbar.anim": {
+      "time": 1733804518000,
+      "uuid": "231fc82b-8ec7-4e29-b30a-12b5e9a34991"
+    },
+    "C:\\Cocos\\slot\\assets\\scenes\\game.scene": {
+      "time": 1734529318137.1453,
+      "uuid": "f418e10c-b05b-4c36-a9ae-50d5675301bb"
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\EndingPicture.png": {
+      "time": 1733922522000,
+      "uuid": "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e"
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\handelBar1.png": {
+      "time": 1733756612000,
+      "uuid": "699481da-3dd6-49c2-b887-d3db69a0f962"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\music\\BingoMusic.mp3": {
+      "time": 1734154664000,
+      "uuid": "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\music\\RollingMusic.m4a": {
+      "time": 1733838924000,
+      "uuid": "21d8d42c-97be-4321-bb36-cea0500b00c1"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture1.png": {
+      "time": 1733841598000,
+      "uuid": "02d0c7fc-db55-4990-924f-514cb0db1ae1"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture2.png": {
+      "time": 1733841610000,
+      "uuid": "f4659237-ebb6-40e1-840e-d96d86deb252"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture3.png": {
+      "time": 1733841622000,
+      "uuid": "153e44c5-cc46-4768-8a5c-fbd537a7048c"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture4.png": {
+      "time": 1733841632000,
+      "uuid": "acca0a5d-4953-41fe-81e5-f4532148e5e6"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture1.prefab": {
+      "time": 1734528257543.694,
+      "uuid": "341aaeb5-233c-4c90-bb2b-b092723e166c"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture2.prefab": {
+      "time": 1734528265619.8062,
+      "uuid": "acd7cefb-45f8-4528-9cce-46006b9f571e"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture3.prefab": {
+      "time": 1734528272388.3723,
+      "uuid": "293da587-edaa-4885-bf76-a9d39bcadc14"
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture4.prefab": {
+      "time": 1734528281804.2996,
+      "uuid": "b8874494-fc65-4908-b1e8-b44aedb5cdb0"
+    },
+    "C:\\Cocos\\slot\\assets\\scenes\\game.scene.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\animation\\handelbar.anim.meta": {
+      "time": 1733759144000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\Body.png.meta": {
+      "time": 1733758032000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\handelBar2.png.meta": {
+      "time": 1733758032000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\handelBar1.png.meta": {
+      "time": 1733758030000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\EndingPicture.png.meta": {
+      "time": 1733923238000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\handelBar3.png.meta": {
+      "time": 1733758032000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\music\\RollingMusic.m4a.meta": {
+      "time": 1733838950000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\music\\BingoMusic.mp3.meta": {
+      "time": 1734154682000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture1.png.meta": {
+      "time": 1733841650000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\handelBar4.png.meta": {
+      "time": 1733758032000
+    },
+    "C:\\Cocos\\slot\\assets\\sources\\machine.png.meta": {
+      "time": 1733745392000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture1.prefab.meta": {
+      "time": 1733841676000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture3.prefab.meta": {
+      "time": 1733841688000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture2.prefab.meta": {
+      "time": 1733841682000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture2.png.meta": {
+      "time": 1733841650000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture3.png.meta": {
+      "time": 1733841650000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\pictures\\SLOT_Picture4.png.meta": {
+      "time": 1733841650000
+    },
+    "C:\\Cocos\\slot\\assets\\resources\\prefabs\\SLOT_Picture4.prefab.meta": {
+      "time": 1733841702000
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\animation": {
+      "time": 1734775852195.3054,
+      "uuid": "83bd8f83-9c37-4809-ae37-ae3b4a8cfde3"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources": {
+      "time": 1734782851291.7664,
+      "uuid": "2f829cc9-da31-4c3d-967e-412e24ad046e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scenes": {
+      "time": 1734775853149.275,
+      "uuid": "e32ea92a-f1db-4db9-b225-79ff88ee01c1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts": {
+      "time": 1734775853498.178,
+      "uuid": "844c27ed-a43b-4bcc-85df-853bd6fc9f98"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources": {
+      "time": 1734782935547.3718,
+      "uuid": "22d08490-c1d7-4486-bca6-97737d187688"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\utils": {
+      "time": 1734775854198.2712,
+      "uuid": "f04c2176-7774-4b83-972a-a3f870a45f64"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\music": {
+      "time": 1734775852466.333,
+      "uuid": "b87da847-ab8c-4b76-b1f0-0467ec10b195"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs": {
+      "time": 1734775853057.395,
+      "uuid": "bfd7044c-3b11-417a-9656-b956e1c14e42"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers": {
+      "time": 1734775853461.3586,
+      "uuid": "5c94bee9-0e2b-4c2a-8bd2-2adf1cd011cd"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\services": {
+      "time": 1734775853544.3535,
+      "uuid": "b641e933-05f2-48fa-b147-fc5b59e4a9c5"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\utils\\FunctionUtils.ts": {
+      "time": 1734793405340.274,
+      "uuid": "a697e2d8-a581-4ef3-b79e-b2a714d903fa"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\utils\\SlotPicturesEnum.ts": {
+      "time": 1734793406887.8381,
+      "uuid": "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers\\GameController.ts": {
+      "time": 1734793543738.0417,
+      "uuid": "953f541b-cba2-439e-b143-85497de03c1d"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers\\MusicController.ts": {
+      "time": 1734775853389.3457,
+      "uuid": "6681fd4f-f351-4576-864f-46f7f8e7d002"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers\\ResultController.ts": {
+      "time": 1734775853457.3096,
+      "uuid": "3ea5d81c-91e3-4973-979c-7925d5d04e12"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\services\\GameService.ts": {
+      "time": 1734793399561.5283,
+      "uuid": "2bcfac98-dc85-44c3-9ef3-0fe75733498d"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\animation.meta": {
+      "time": 1734775851964.6023
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources.meta": {
+      "time": 1734775851999.1157
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scenes.meta": {
+      "time": 1734775852034.976
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts.meta": {
+      "time": 1734775852072.3884
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources.meta": {
+      "time": 1734775852108.8462
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\utils.meta": {
+      "time": 1734775852142.5813
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\music.meta": {
+      "time": 1734775852272.7935
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs.meta": {
+      "time": 1734775852341.293
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers.meta": {
+      "time": 1734775853239.5864
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\services.meta": {
+      "time": 1734775853276.7197
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\utils\\FunctionUtils.ts.meta": {
+      "time": 1734775854162.0742
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\utils\\SlotPicturesEnum.ts.meta": {
+      "time": 1734775854239.3303
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers\\GameController.ts.meta": {
+      "time": 1734775853359.0142
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers\\MusicController.ts.meta": {
+      "time": 1734775853426.9294
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\controllers\\ResultController.ts.meta": {
+      "time": 1734775853491.975
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scripts\\services\\GameService.ts.meta": {
+      "time": 1734775853589.4768
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\animation\\handelbar.anim": {
+      "time": 1734775852186.593,
+      "uuid": "231fc82b-8ec7-4e29-b30a-12b5e9a34991"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scenes\\game.scene": {
+      "time": 1734794214407.8262,
+      "uuid": "f418e10c-b05b-4c36-a9ae-50d5675301bb"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\music\\BingoMusic.mp3": {
+      "time": 1734775852381.0742,
+      "uuid": "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\music\\RollingMusic.m4a": {
+      "time": 1734775852458.5825,
+      "uuid": "21d8d42c-97be-4321-bb36-cea0500b00c1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture1.prefab": {
+      "time": 1734775852827.9084,
+      "uuid": "341aaeb5-233c-4c90-bb2b-b092723e166c"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture2.prefab": {
+      "time": 1734775852899.8997,
+      "uuid": "acd7cefb-45f8-4528-9cce-46006b9f571e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture3.prefab": {
+      "time": 1734775852976.6653,
+      "uuid": "293da587-edaa-4885-bf76-a9d39bcadc14"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture4.prefab": {
+      "time": 1734775853052.3352,
+      "uuid": "b8874494-fc65-4908-b1e8-b44aedb5cdb0"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\animation\\handelbar.anim.meta": {
+      "time": 1734775852227.3086
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\scenes\\game.scene.meta": {
+      "time": 1734775853193.801
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\music\\RollingMusic.m4a.meta": {
+      "time": 1734775852500.204
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\music\\BingoMusic.mp3.meta": {
+      "time": 1734775852425.1035
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture1.prefab.meta": {
+      "time": 1734775852862.6216
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture2.prefab.meta": {
+      "time": 1734775852937.6077
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture3.prefab.meta": {
+      "time": 1734775853013.7505
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture4.prefab.meta": {
+      "time": 1734775853090.909
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures.meta": {
+      "time": 1734775852307.276
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures": {
+      "time": 1734782935547.3718,
+      "uuid": "e05775ca-1a9d-45dc-99c7-852774ac9b36"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture2.png.meta": {
+      "time": 1734775852644.0815
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture2.png": {
+      "time": 1734775852607.06,
+      "uuid": "f4659237-ebb6-40e1-840e-d96d86deb252"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture3.png.meta": {
+      "time": 1734775852712.761
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture3.png": {
+      "time": 1734775852674.79,
+      "uuid": "153e44c5-cc46-4768-8a5c-fbd537a7048c"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture4.png.meta": {
+      "time": 1734775852782.9468
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture4.png": {
+      "time": 1734775852745.0674,
+      "uuid": "acca0a5d-4953-41fe-81e5-f4532148e5e6"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture1.png.meta": {
+      "time": 1734775852573.7368
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture1.png": {
+      "time": 1734775852537,
+      "uuid": "02d0c7fc-db55-4990-924f-514cb0db1ae1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Body.png.meta": {
+      "time": 1734782880836.8655
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\SLOT_Body.png": {
+      "time": 1734782269759.541,
+      "uuid": "bc2ed212-22b1-4054-8d50-71bd290f5b3e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\handelBar1.png.meta": {
+      "time": 1734775853810.0203
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\handelBar1.png": {
+      "time": 1734775853771.7524,
+      "uuid": "699481da-3dd6-49c2-b887-d3db69a0f962"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\EndingPicture.png.meta": {
+      "time": 1734775853742.5903
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\EndingPicture.png": {
+      "time": 1734775853703.1504,
+      "uuid": "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\animation": {
+      "time": 1734775852195.3054,
+      "uuid": "83bd8f83-9c37-4809-ae37-ae3b4a8cfde3"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources": {
+      "time": 1734782851291.7664,
+      "uuid": "2f829cc9-da31-4c3d-967e-412e24ad046e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scenes": {
+      "time": 1734775853149.275,
+      "uuid": "e32ea92a-f1db-4db9-b225-79ff88ee01c1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts": {
+      "time": 1734775853498.178,
+      "uuid": "844c27ed-a43b-4bcc-85df-853bd6fc9f98"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources": {
+      "time": 1734782935547.3718,
+      "uuid": "22d08490-c1d7-4486-bca6-97737d187688"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\utils": {
+      "time": 1734775854198.2712,
+      "uuid": "f04c2176-7774-4b83-972a-a3f870a45f64"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\music": {
+      "time": 1734775852466.333,
+      "uuid": "b87da847-ab8c-4b76-b1f0-0467ec10b195"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs": {
+      "time": 1734775853057.395,
+      "uuid": "bfd7044c-3b11-417a-9656-b956e1c14e42"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers": {
+      "time": 1734775853461.3586,
+      "uuid": "5c94bee9-0e2b-4c2a-8bd2-2adf1cd011cd"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\services": {
+      "time": 1734775853544.3535,
+      "uuid": "b641e933-05f2-48fa-b147-fc5b59e4a9c5"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures": {
+      "time": 1734782935547.3718,
+      "uuid": "e05775ca-1a9d-45dc-99c7-852774ac9b36"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\utils\\FunctionUtils.ts": {
+      "time": 1734793405340.274,
+      "uuid": "a697e2d8-a581-4ef3-b79e-b2a714d903fa"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\utils\\SlotPicturesEnum.ts": {
+      "time": 1734793406887.8381,
+      "uuid": "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers\\GameController.ts": {
+      "time": 1734793543738.0417,
+      "uuid": "953f541b-cba2-439e-b143-85497de03c1d"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers\\MusicController.ts": {
+      "time": 1734775853389.3457,
+      "uuid": "6681fd4f-f351-4576-864f-46f7f8e7d002"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers\\ResultController.ts": {
+      "time": 1734775853457.3096,
+      "uuid": "3ea5d81c-91e3-4973-979c-7925d5d04e12"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\services\\GameService.ts": {
+      "time": 1734793399561.5283,
+      "uuid": "2bcfac98-dc85-44c3-9ef3-0fe75733498d"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\animation.meta": {
+      "time": 1734775851964.6023
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources.meta": {
+      "time": 1734775851999.1157
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scenes.meta": {
+      "time": 1734775852034.976
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts.meta": {
+      "time": 1734775852072.3884
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources.meta": {
+      "time": 1734775852108.8462
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\utils.meta": {
+      "time": 1734775852142.5813
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\music.meta": {
+      "time": 1734775852272.7935
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs.meta": {
+      "time": 1734775852341.293
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers.meta": {
+      "time": 1734775853239.5864
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\services.meta": {
+      "time": 1734775853276.7197
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures.meta": {
+      "time": 1734775852307.276
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\utils\\FunctionUtils.ts.meta": {
+      "time": 1734775854162.0742
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\utils\\SlotPicturesEnum.ts.meta": {
+      "time": 1734775854239.3303
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers\\GameController.ts.meta": {
+      "time": 1734775853359.0142
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers\\MusicController.ts.meta": {
+      "time": 1734775853426.9294
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\controllers\\ResultController.ts.meta": {
+      "time": 1734775853491.975
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scripts\\services\\GameService.ts.meta": {
+      "time": 1734775853589.4768
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\animation\\handelbar.anim": {
+      "time": 1734775852186.593,
+      "uuid": "231fc82b-8ec7-4e29-b30a-12b5e9a34991"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scenes\\game.scene": {
+      "time": 1734794214407.8262,
+      "uuid": "f418e10c-b05b-4c36-a9ae-50d5675301bb"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\music\\BingoMusic.mp3": {
+      "time": 1734775852381.0742,
+      "uuid": "23a39b59-a3cb-45a4-b5a3-2e7841b2c1fc"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\music\\RollingMusic.m4a": {
+      "time": 1734775852458.5825,
+      "uuid": "21d8d42c-97be-4321-bb36-cea0500b00c1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture1.prefab": {
+      "time": 1734775852827.9084,
+      "uuid": "341aaeb5-233c-4c90-bb2b-b092723e166c"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture2.prefab": {
+      "time": 1734775852899.8997,
+      "uuid": "acd7cefb-45f8-4528-9cce-46006b9f571e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture3.prefab": {
+      "time": 1734775852976.6653,
+      "uuid": "293da587-edaa-4885-bf76-a9d39bcadc14"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture4.prefab": {
+      "time": 1734775853052.3352,
+      "uuid": "b8874494-fc65-4908-b1e8-b44aedb5cdb0"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\EndingPicture.png": {
+      "time": 1734775853703.1504,
+      "uuid": "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\handelBar1.png": {
+      "time": 1734775853771.7524,
+      "uuid": "699481da-3dd6-49c2-b887-d3db69a0f962"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Body.png": {
+      "time": 1734782269759.541,
+      "uuid": "bc2ed212-22b1-4054-8d50-71bd290f5b3e"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture1.png": {
+      "time": 1734775852537,
+      "uuid": "02d0c7fc-db55-4990-924f-514cb0db1ae1"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture2.png": {
+      "time": 1734775852607.06,
+      "uuid": "f4659237-ebb6-40e1-840e-d96d86deb252"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture3.png": {
+      "time": 1734775852674.79,
+      "uuid": "153e44c5-cc46-4768-8a5c-fbd537a7048c"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture4.png": {
+      "time": 1734775852745.0674,
+      "uuid": "acca0a5d-4953-41fe-81e5-f4532148e5e6"
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\scenes\\game.scene.meta": {
+      "time": 1734775853193.801
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture1.prefab.meta": {
+      "time": 1734775852862.6216
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\animation\\handelbar.anim.meta": {
+      "time": 1734775852227.3086
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture2.prefab.meta": {
+      "time": 1734775852937.6077
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture3.prefab.meta": {
+      "time": 1734775853013.7505
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\prefabs\\SLOT_Picture4.prefab.meta": {
+      "time": 1734775853090.909
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\music\\RollingMusic.m4a.meta": {
+      "time": 1734775852500.204
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\resources\\music\\BingoMusic.mp3.meta": {
+      "time": 1734775852425.1035
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture1.png.meta": {
+      "time": 1734775852573.7368
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture2.png.meta": {
+      "time": 1734775852644.0815
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\handelBar1.png.meta": {
+      "time": 1734775853810.0203
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Body.png.meta": {
+      "time": 1734782880836.8655
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\EndingPicture.png.meta": {
+      "time": 1734775853742.5903
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture3.png.meta": {
+      "time": 1734775852712.761
+    },
+    "C:\\Users\\eulao\\OneDrive\\Desktop\\COCOSSLOT\\cocos_slot\\slot\\slot\\assets\\sources\\pictures\\SLOT_Picture4.png.meta": {
+      "time": 1734775852782.9468
+    }
+  },
+  "missing": {
+    "3b2c32af-947f-4d0c-8e5e-aa3898e14a43": {
+      "path": "C:\\Cocos\\solt\\assets\\scenes.prefab",
+      "time": 1732544385720.7734,
+      "removeTime": 1732544456936
+    },
+    "e8cda80e-4ed2-4e94-b63c-a942ce8f4e59": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\1.png",
+      "time": 1733665211283.8997,
+      "removeTime": 1733918879326
+    },
+    "118bf538-1f0f-4ea7-8c81-4036af2fae91": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\2.jpg",
+      "time": 1733665211700.2112,
+      "removeTime": 1733918879328
+    },
+    "e569331c-6482-41e4-b5b1-20fa0e85b504": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\3.png",
+      "time": 1733665211784.7998,
+      "removeTime": 1733918879329
+    },
+    "717fc823-0b53-453a-9db3-7338d732a8d5": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\4.png",
+      "time": 1733665211868.0686,
+      "removeTime": 1733918879329
+    },
+    "68709859-af30-4f78-9549-8fadcdf6d8cb": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\prefabs",
+      "time": 1733409918000,
+      "removeTime": 1734151504786
+    },
+    "1432aa1e-dc50-486b-8fd9-83272632188e": {
+      "path": "C:\\Cocos\\solt\\assets\\prefabs\\Node1.prefab",
+      "time": 1733409626512.086,
+      "removeTime": 1733409704198
+    },
+    "4aacfcde-79b6-4340-a49b-8e88894371ec": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\11.prefab",
+      "time": 1733665211369.5806,
+      "removeTime": 1733918879326
+    },
+    "b5df8089-4947-4e97-8ae4-7005fd53b339": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\12.prefab",
+      "time": 1733665211454.3225,
+      "removeTime": 1733918879327
+    },
+    "3059605d-fba4-4e1c-be28-81e4ee621f85": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\13.prefab",
+      "time": 1733665211534.1675,
+      "removeTime": 1733918879327
+    },
+    "0fbd3527-38ce-4f8f-86f0-31780f0e3964": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\solt\\assets\\resources\\14.prefab",
+      "time": 1733665211615.159,
+      "removeTime": 1733918879327
+    },
+    "503f2788-c12b-45ff-82f9-c8bd6943c9f3": {
+      "path": "C:\\Cocos\\solt\\assets\\handelbar.anim",
+      "time": 1733759053239.3938,
+      "removeTime": 1733759144454
+    },
+    "ed3ec328-a115-4092-9c35-657bc2dc8b84": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\RollingMusic.m4a",
+      "time": 1733833857871.465,
+      "removeTime": 1733838948025
+    },
+    "3c7b9bc1-d5b8-4275-a294-7c49d7629d64": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\MusicController",
+      "time": 1733835398381.765,
+      "removeTime": 1733835406854
+    },
+    "95ae37c5-81aa-412d-8bf4-66ab7148a73a": {
+      "path": "C:\\Cocos\\solt\\assets\\prefabs\\SLOT_Picture1.prefab",
+      "time": 1733841301603.9424,
+      "removeTime": 1733841353736
+    },
+    "c16e532f-6f5f-4cc9-b3b1-adee43b9b503": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture4.prefab",
+      "time": 1733841447114.1023,
+      "removeTime": 1733841641596
+    },
+    "4b714fbf-eec9-4194-8906-7e048f961f78": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture2.prefab",
+      "time": 1733841413302.723,
+      "removeTime": 1733841641515
+    },
+    "0ae285ce-c0cd-4c8b-8b37-a5039a49e639": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture3.prefab",
+      "time": 1733841437988.2217,
+      "removeTime": 1733841641603
+    },
+    "28616a7e-0dd4-481d-98cf-c1081354c7ca": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture1.prefab",
+      "time": 1733841392877.4954,
+      "removeTime": 1733841641515
+    },
+    "2ca0b7f9-ad61-4a57-8a08-86d8b2473b32": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture2.png",
+      "time": 1733841082151.1313,
+      "removeTime": 1733841641592
+    },
+    "534d0e17-2b74-43a7-9429-3a87b97625f1": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture3.png",
+      "time": 1733841107849.505,
+      "removeTime": 1733841641600
+    },
+    "0c77ae83-871d-46f6-81fe-bc71177b7860": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture4.png",
+      "time": 1733841092035.1501,
+      "removeTime": 1733841641605
+    },
+    "9b5c3da1-0cb2-44ca-a8f1-c04ba72669a4": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture1.png",
+      "time": 1733841071523.079,
+      "removeTime": 1733841641624
+    },
+    "341aaeb5-233c-4c90-bb2b-b092723e166c": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture1.prefab",
+      "time": 1733841676426.992,
+      "removeTime": 1733841887780
+    },
+    "acd7cefb-45f8-4528-9cce-46006b9f571e": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture2.prefab",
+      "time": 1733841683035.2964,
+      "removeTime": 1733841888929
+    },
+    "293da587-edaa-4885-bf76-a9d39bcadc14": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture3.prefab",
+      "time": 1733841689650.6052,
+      "removeTime": 1733841890185
+    },
+    "b8874494-fc65-4908-b1e8-b44aedb5cdb0": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\SLOT_Picture4.prefab",
+      "time": 1733841703035.903,
+      "removeTime": 1733841891481
+    },
+    "21d8d42c-97be-4321-bb36-cea0500b00c1": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\music\\RllingMusic.m4a",
+      "time": 1733838925955.3345,
+      "removeTime": 1734153047709
+    },
+    "02d0c7fc-db55-4990-924f-514cb0db1ae1": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\pictures\\SLOT_Picture1.png",
+      "time": 1734775852537,
+      "removeTime": 1734782851296
+    },
+    "f4659237-ebb6-40e1-840e-d96d86deb252": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\pictures\\SLOT_Picture2.png",
+      "time": 1734775852607.06,
+      "removeTime": 1734782851296
+    },
+    "153e44c5-cc46-4768-8a5c-fbd537a7048c": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\pictures\\SLOT_Picture3.png",
+      "time": 1734775852674.79,
+      "removeTime": 1734782851297
+    },
+    "acca0a5d-4953-41fe-81e5-f4532148e5e6": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\pictures\\SLOT_Picture4.png",
+      "time": 1734775852745.0674,
+      "removeTime": 1734782851298
+    },
+    "6cd29c7c-f4a8-410f-958e-eefc9c9a6e6e": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\EndingPicture.png",
+      "time": 1734775853703.1504,
+      "removeTime": 1734782935549
+    },
+    "a10c756a-8f1f-4489-afa3-49ffcc1a065c": {
+      "path": "C:\\Cocos\\solt\\assets\\resources\\music\\BingoMusic.mp3",
+      "time": 1734151825731.624,
+      "removeTime": 1734154679674
+    },
+    "10caa6e3-783d-4a83-8cb0-7ee9bfcebcfa": {
+      "path": "C:\\Cocos\\solt\\assets\\utils\\NewComponent.ts",
+      "time": 1734159002531.916,
+      "removeTime": 1734159020044
+    },
+    "6681fd4f-f351-4576-864f-46f7f8e7d002": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\MusicController.ts",
+      "time": 1734153211321.2732,
+      "removeTime": 1734162598334
+    },
+    "953f541b-cba2-439e-b143-85497de03c1d": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\GameController.ts",
+      "time": 1734154521654.8108,
+      "removeTime": 1734162598340
+    },
+    "3ea5d81c-91e3-4973-979c-7925d5d04e12": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\ResultController.ts",
+      "time": 1734014184325.6213,
+      "removeTime": 1734162598341
+    },
+    "dd31244e-5db0-48d5-b390-684217748234": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\GameController-001.ts",
+      "time": 1734154521654.8108,
+      "removeTime": 1734163895752
+    },
+    "60b5c35c-8efa-4d0b-867c-fb4499d0b197": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\GameController.ts",
+      "time": 1734163807411.319,
+      "removeTime": 1734163903512
+    },
+    "ddeac5bd-b687-4d6d-a78a-66b3ffad55b5": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\services\\RollingPictureService.ts",
+      "time": 1734165950410.987,
+      "removeTime": 1734172472186
+    },
+    "a50f2727-8962-4962-91e4-5b3e160519f9": {
+      "path": "C:\\Cocos\\solt\\assets\\scripts\\GameController.ts",
+      "time": 1734163910194.6836,
+      "removeTime": 1734176703602
+    },
+    "e05775ca-1a9d-45dc-99c7-852774ac9b36": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\resources\\pictures",
+      "time": 1734775852749.6494,
+      "removeTime": 1734782851295
+    },
+    "e8f64d73-b2b2-47ac-9a96-404c7e4710f9": {
+      "path": "C:\\Cocos\\slot\\assets\\sources\\handelBar2.png",
+      "time": 1733756626000,
+      "removeTime": 1734790470100
+    },
+    "da7ed2b0-be54-4736-a70b-185accabf960": {
+      "path": "C:\\Cocos\\slot\\assets\\sources\\handelBar3.png",
+      "time": 1733756636000,
+      "removeTime": 1734790470101
+    },
+    "f36cb2bd-76b5-48ae-a3af-8591d3cea01f": {
+      "path": "C:\\Cocos\\slot\\assets\\sources\\handelBar4.png",
+      "time": 1733756648000,
+      "removeTime": 1734790470101
+    },
+    "f0e61c6b-d68e-45a6-a531-97f8335745b9": {
+      "path": "C:\\Cocos\\slot\\assets\\sources\\machine.png",
+      "time": 1733745392000,
+      "removeTime": 1734790470101
+    },
+    "bc2ed212-22b1-4054-8d50-71bd290f5b3e": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\pictures\\未命名-1.png",
+      "time": 1734782269759.541,
+      "removeTime": 1734782880763
+    },
+    "8806a521-ee14-4930-8405-cdf4782f2aa0": {
+      "path": "C:\\Cocos\\slot\\assets\\sources\\Body.png",
+      "time": 1733756586000,
+      "removeTime": 1734790470100
+    },
+    "699481da-3dd6-49c2-b887-d3db69a0f962": {
+      "path": "C:\\Users\\eulao\\OneDrive\\Desktop\\COC\\slot\\slot\\assets\\sources\\handelBar1.png",
+      "time": 1734775853771.7524,
+      "removeTime": 1734782932913
+    }
+  }
+}
